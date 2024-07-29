@@ -1,2 +1,2 @@
-![](maxwell-cat-rotating.gif)
-![](maxwell-maxwell-cat.gif)
+<img src="maxwell-cat-rotating.gif" alt="" widht=auto height=auto loop=infinite>
+<img src="maxwell-maxwell-cat.gif" alt="" widht=auto height=auto loop=infinite>
